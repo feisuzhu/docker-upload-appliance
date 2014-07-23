@@ -1,0 +1,5 @@
+{
+  "prefix": "http://localhost:4444/files/",
+  "max_size": 5242880,
+  "can_delete": true 
+}
